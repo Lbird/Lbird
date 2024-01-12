@@ -60,14 +60,24 @@
   * Golang
 * AMO 블록체인 주변 요소 개발 / 인프라 관리
   * 각종 서비스 backend ~ frontend 개발
-  * Node.js, ReactJS, Electron
+  * Node.js, ReactJS, Electron, SQLite
 
 ### Freelance job: 2022.01 ~ 2022.03
 * LG Signage Webos app 개발
   * Node.js / ReactJS / EnactJS
-  * Javascript
+  * Javascript, SQLite
 
-## Tools
+### Coinone: 2022.07 ~ 2024.01
+* Deposit/withdrawal system 설계 / 개발
+  * 8-9 규모 조직 내 시니어
+    * 개발 프로세스 개선
+  * 입금 식별: tx scan / parsing for various blockchain
+  * 출금: tx construction for various blockchain
+  * 입금출 서버 API 서버 설계 개발
+  * Node.js (JS/TS)
+  * RabbitMQ
+
+## Notable Tools
 * C/C++
   * Efficient implementation of cryptographic algorithms
   * Complex mathematical representation
