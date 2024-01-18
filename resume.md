@@ -1,5 +1,16 @@
 # 양연형
-#### Software Engineer
+**Software Engineer**
+*	실무 S/W 개발 능력	
+  *	Appliance 형태의 all-in-one 제품 개발
+  *	Backend API 서비스 개발
+  *	약간의 frontend 개발 겅혐
+*	다양한 규모의 조직 리딩 경험
+  *	2-3인 수준의 소규모 팀부터 20인 이상의 중소규모 조직장 경험
+*	다양한 수준의 S/W 설계 경험
+  *	2-3인이 소화 가능한 개별 S/W
+  *	20인 이상 소요되는 appliance(H/W + S/W) 제품 설계 및 개발 총괄
+  *	80인 이상 규모 개발 조직의 공통 S/W 설계, 표준 정립
+*	Cryptography, network layer, web security, blockchain 등 분야에서 8년의 academy(대학원) 경력, 14년의 실무 경력
 
 ## Contact
 * e-mail: lbird94@gmail.com
@@ -7,8 +18,8 @@
 * github: https://github.com/Lbird
 
 ## Education
-* POSTECH 전자전기공학 BS: 2002.02
-* POSTECH 전자전기공학 정보보안 MS: 2010.02
+* POSTECH 전자전기공학 BS: 1994.03 ~ 2002.02
+* POSTECH 전자전기공학 정보보안 MS: 2002.03 ~ 2010.02 (석박사 통합과정 중 석사로 전환 후 석사 학위로 졸업)
 
 ## Academic Background
 * Cryptography
