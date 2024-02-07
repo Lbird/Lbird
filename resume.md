@@ -4,7 +4,7 @@
 * 실무 S/W 개발 능력
   *	Appliance 형태의 all-in-one 제품 개발
   *	Backend API 서비스 개발
-  *	약간의 frontend 개발 겅혐
+  *	약간의 frontend 개발 경험
 * 다양한 규모의 조직 리딩 경험
   *	2-3인 수준의 소규모 팀부터 20인 이상의 중소규모 조직장 경험
 * 다양한 수준의 S/W 설계 경험
