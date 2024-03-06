@@ -90,6 +90,9 @@
   * Node.js (JS/TS)
   * RabbitMQ
 
+### Saesol Tech: 2024.03
+* 연구위원
+
 ## Notable Tools
 * C/C++
   * Efficient implementation of cryptographic algorithms
